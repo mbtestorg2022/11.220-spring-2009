@@ -9,10 +9,39 @@ Problems
 
 Occasionally you will be assigned problems from the text books, due in your weekly recitation section. They should be prepared and submitted during the week designated in the table below, as they will provide a good review of the material in the book and a "starting off" point for the weekly sections. They will also be counted as part of your participation grade.
 
-| WEEK # | ASSIGNMENT |
-| --- | --- |
-| 2 | Problem set 1 ([PDF]({{< baseurl >}}/resources/mit11_220s09_pset01)) |
-| 5 | Problem set 2 ([PDF]({{< baseurl >}}/resources/mit11_220s09_pset02)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/mit11_220s09_pset01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/mit11_220s09_pset02))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Written Assignments
 -------------------

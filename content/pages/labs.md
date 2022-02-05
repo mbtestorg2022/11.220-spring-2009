@@ -55,9 +55,72 @@ Tutorials
 Computer Labs
 -------------
 
-| SES # | LAB | SUPPORTING FILES |
-| --- | --- | --- |
-| Lab 1 | ([PDF]({{< baseurl >}}/resources/mit11_220s09_lab01)) | DATA\_LAB ([ZIP]({{< baseurl >}}/resources/statadata)) (The Zip file contains 3 .raw files, 1 .do file, 20 .dta files, 1 .fix file, 2 .csv files, and 2 .txt files) |
-| Lab 2 | ([PDF]({{< baseurl >}}/resources/mit11_220s09_lab2_mar6)) |
-| Lab 3 | ([PDF]({{< baseurl >}}/resources/mit11_220s09_lab03_apr3)) | hedonic ([DTA]({{< baseurl >}}/resources/hedonic)) |
-| Lab 4 | ([PDF]({{< baseurl >}}/resources/mit11_220s09_lab04_apr24)) |  {{< br >}}{{< br >}} nbawage ([DTA]({{< baseurl >}}/resources/nbawage)) {{< br >}}{{< br >}} nbawage\_dofile ([DO](/courses/urban-studies-and-planning/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/labs/nbawage.do)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LAB
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit11_220s09_lab01))
+{{< tdclose >}}
+{{< tdopen >}}
+DATA\_LAB ([ZIP]({{< baseurl >}}/resources/statadata)) (The Zip file contains 3 .raw files, 1 .do file, 20 .dta files, 1 .fix file, 2 .csv files, and 2 .txt files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit11_220s09_lab2_mar6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit11_220s09_lab03_apr3))
+{{< tdclose >}}
+{{< tdopen >}}
+hedonic ([DTA]({{< baseurl >}}/resources/hedonic))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit11_220s09_lab04_apr24))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+nbawage ([DTA]({{< baseurl >}}/resources/nbawage))
+
+nbawage\_dofile ([DO](/courses/urban-studies-and-planning/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/labs/nbawage.do))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -59,42 +59,553 @@ For those students interested in using R instead on Stata.
 
 The readings listed below in \[square brackets\] correspond to the books cited above.
 
-| {{< anchor "SES__" >}}{{< /anchor >}}SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1: Introduction**{{< /td-colspan >}} |||
-| 1 | Course overview; epistemological foundations; math review | &nbsp; |
-| 2 | What's in a number?; basic numeracy; measurement |  {{< br >}}{{< br >}} \[Meier\], chapters 1 and 2. {{< br >}}{{< br >}} \[Horwitz\], chapter 2. {{< br >}}{{< br >}} Hofstadter, D. "On Number Numbness." Chapter 6 in _Metamagical Themas: Questing for the Essence of Mind and Pattern_. New York City, NY: BasicBooks, 1985. ISBN: 9780465045662. {{< br >}}{{< br >}} Hodge, G. "[Use and Mis-use of Measurement Scales in City Planning](http://www.informaworld.com/smpp/content~db=all?content=10.1080/01944366308978048)." _J Am Plann Assoc_29 (1963): 112-121. {{< br >}}{{< br >}} Zeisel, H. _Say It With Figures_. 6th ed. Harper & Row, 6th edition, chapter 3 1985. ISBN: 9780061819827. {{< br >}}{{< br >}} Diamond, J. "How Cats Survive Falls from New York Skyscrapers." _Nat Hist_ 8 (1989): 20-26. {{< br >}}{{< br >}} "[On Landing Like a Cat: It Is a Fact](http://www.nytimes.com/1989/08/22/science/on-landing-like-a-cat-it-is-a-fact.html?sec=&spon=)." _New York Times_, August 22, 1989. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 2: Planning numbers; descriptive statistics**{{< /td-colspan >}} |||
-| 3 | The use of numbers in planning |  {{< br >}}{{< br >}} \[Horwitz\], chapter 4. {{< br >}}{{< br >}} Innis, J. "Sagas of Three Indicators." Chapter 6 in _Knowledge and Public Policy: The Search for Meaningful Indicators_. New Brunswick, NJ: Transaction Publishers, 1995. ISBN: 9780887388101. {{< br >}}{{< br >}} Savas, E. S. "[The political Properties of Crystalline H2O: Planning for Snow Emergencies in New York](http://zimmer.csufresno.edu/~sasanr/Teaching-Material/MIS/Systems-Approach/NY-storm-systems-analysis.pdf)." _Management Science_ 20 (1973):137-145. {{< br >}}{{< br >}}  |
-| 4 | Variables; samples and populations; measures of central tendency |  {{< br >}}{{< br >}} \[Horwitz\], chapter 6. {{< br >}}{{< br >}} \[Meier\], chapters 4 and 5. {{< br >}}{{< br >}} Abrahamse, A. F. "Counting the Homeless: Sampling Difficult Populations." Chapter 3 in _Public Policy and Statistics: Case Studies from RAND_. Edited by S. Morton and J. Rolph. New York City, NY: Springer, 2000. ISBN: 9780387987774. {{< br >}}{{< br >}} Chan, Sewell. "[Remembering a Snowstorm That Paralyzed the City](http://cityroom.blogs.nytimes.com/2009/02/10/remembering-a-snowstorm-that-paralyzed-the-city/?hp)." _New York Times_, February 10, 2009. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 3: Talking about distributions**{{< /td-colspan >}} |||
-| 5 | Measures of variability |  {{< br >}}{{< br >}} \[Horwitz\], chapters 5 and 7. {{< br >}}{{< br >}} \[Meier\], chapter 6. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 4: Asking and answering questions with data**{{< /td-colspan >}} |||
-| 6 | Exploratory data analysis and visualization |  {{< br >}}{{< br >}} \[Hartwig\], pages 5-31. {{< br >}}{{< br >}} Start reading \[Tufte\] {{< br >}}{{< br >}} Lewis, Michael. "[The No-Stats All-Star](http://www.nytimes.com/2009/02/15/magazine/15Battier-t.html?_r=1)." _New York Times,_ February 13, 2009. {{< br >}}{{< br >}}  |
-| 7 | Logic, experiment, and the scientific method |  {{< br >}}{{< br >}} \[Horwitz\], chapter 1. {{< br >}}{{< br >}} \[Meier\], chapter 3. {{< br >}}{{< br >}} Popper, K. _Conjectures and Refutations: The Growth of Scientific Knowledge_. 5th ed. New York City, NY: Routledge Classics, 2002, chapter 10. ISBN: 9780415285940. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 5: Probability and the normal curve**{{< /td-colspan >}} |||
-| 8 | Basic probability |  {{< br >}}{{< br >}} \[Meier\], chapters 7 and 8. {{< br >}}{{< br >}} Robinson, W. "[Ecological Correlations and the Behavior of Individuals](http://ije.oxfordjournals.org/cgi/content/extract/38/2/337)." _Am Sociol Rev_ 15 (1950): 351-357. {{< br >}}{{< br >}}  |
-| 9 | The normal curve; sampling || {{< td-colspan 3 >}} {{< br >}}{{< br >}} \[Horwitz\], chapters 8 and 9. {{< br >}}{{< br >}} \[Meier\], chapter 9. {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Week 6: Inferential statistics**{{< /td-colspan >}} |||
-| 10 | Estimates and confidence intervals |  {{< br >}}{{< br >}} \[Meier\], chapters 11, 12 (skim), and 13. {{< br >}}{{< br >}} \[Horwitz\], chapters 10 and 12. {{< br >}}{{< br >}}  |
-| 11 | The idea of a statistical test; non-parametric tests |  {{< br >}}{{< br >}} \[Meier\], chapters 12 and 14. {{< br >}}{{< br >}} \[Horwitz\], chapter 11. {{< br >}}{{< br >}} Zernike, Kate. "[Do Polls Lie About Race?](http://www.nytimes.com/2008/10/12/weekinreview/12zernike.html?partner=permalink&exprod=permalink)" _New York Times,_ October 11, 2008. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 7: Computers and data**{{< /td-colspan >}} |||
-| 12 | Midterm exam | &nbsp; |
-| 13 | Statistical software; data management | Zeisel, H. _Say It With Figures_. 6th ed. Harper & Row, 6th edition, 1985, chapter 4. ISBN: 9780061819827. |
-| {{< td-colspan 3 >}}**Week 8: Introduction to bivariate/multivariate data**{{< /td-colspan >}} |||
-| 14 | Cross-tabulations; χ2 tests |  {{< br >}}{{< br >}} Start reading \[Davis\] {{< br >}}{{< br >}} \[Meier\], chapters 15-16. {{< br >}}{{< br >}} \[Horwitz\], pages 228-331 (review). {{< br >}}{{< br >}} Fairley, W. "Accidents on Route 2: Two Way Structures for Data." In _Statistics and Public Policy_. Edited by W. Fairley and F. Mosteller. Reading, MA: Addison-Welsley, 1977. ISBN: 9780201021851. {{< br >}}{{< br >}}  |
-| 15 | Scatterplots; correlation; cause and effect; confounding variables |  {{< br >}}{{< br >}} \[Meier\], chapters 17-18. {{< br >}}{{< br >}} \[Horwitz\], chapters 13-14. {{< br >}}{{< br >}} \[Hartwig\], pages 31-79. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 9: Simple regression**{{< /td-colspan >}} |||
-| 16 | Simple regression |  {{< br >}}{{< br >}} Review readings from Session 14. {{< br >}}{{< br >}} \[Berry\], chapter 1. {{< br >}}{{< br >}}  |
-| 17 | The assumptions of regression analysis |  {{< br >}}{{< br >}} \[Meier\], chapter 19. {{< br >}}{{< br >}} Chatterjee, S., M. S. Handcock, and J. S. Simonoff. "PCB Contamination of U.S. Bays and Estuaries." In _A Casebook for a First Course in Statistics and Data Analysis_. Hoboken, NJ: Wiley, 1994. ISBN: 9780471110309. {{< br >}}{{< br >}} \[Berry\], Chapter 2. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 10: Multivariate regression**{{< /td-colspan >}} |||
-| 18 | Multivariate regression |  {{< br >}}{{< br >}} \[Berry\], chapters 3-5. {{< br >}}{{< br >}} \[Meier\], chapters 21 and 23. {{< br >}}{{< br >}} \[Rabe-Hesketh\], chapter 3. {{< br >}}{{< br >}}  |
-| 19 | Review/slack; presentation and graphs |  {{< br >}}{{< br >}} \[Horwitz\], chapter 3. {{< br >}}{{< br >}} \[Tufte\], chapter 2. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 11: Particulars of planning data and questions**{{< /td-colspan >}} |||
-| 20 | The census |  {{< br >}}{{< br >}} Jencks, C. "The Politics of Income Measurement." Chapter 2 in _The Politics of Numbers_. Edited by W. Alonso and P. Starr. New York, NY: Russell Sage Foundation, 1987. ISBN: 9780871540157. {{< br >}}{{< br >}} Myers, D. _Analysis with Local Census Data: Portraits of Change_. New York City, NY: Academic Press, 1992, chapters 2-3. ISBN: 9780125123082. {{< br >}}{{< br >}} MacDonald, H. "[The American Community Survey: Warmer (More Current), but Fuzzier (Less Precise) than the Decennial Census](http://www.informaworld.com/smpp/694478713-33710317/content~db=all~content=a787405763)." _J Am Plann Assoc_ 72 (2006): 491-504. {{< br >}}{{< br >}} Monmonier, M. S. _How to Lie with Maps_. 2nd ed. Chicago, IL: University of Chicago Press, 1996, chapter 9. ISBN: 9780226534213. {{< br >}}{{< br >}} Portney, K. E. "Taking Sustainable Cities Seriously. A Comparative Analysis of Twenty-four US Cities." _Local Environment_ 7 (2002): 363-380. {{< br >}}{{< br >}} Yang, Y. "A Tale of Two Cities: Physical Form and Neighborhood Satisfaction in Metropolitan Portland and Charlotte." _J Am Plann Assoc_ 74 (2008): 307-323. {{< br >}}{{< br >}} Baade, R. A., and R. F. Dye. "The Impact of Stadiums and Professional Sports on Metropolitan Area Development." _Growth and Change_ 21 (2006): 1-14. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 12: Dealing with dollars; making decisions**{{< /td-colspan >}} |||
-| 21 | Talking about money |  {{< br >}}{{< br >}} Mohring, H. "Land Values and the Measurement of Highway Benefits." _J Polit Econ_ 69 (1961): 236-249. {{< br >}}{{< br >}} Muro, M. and R. Puentes. "Investing in a Better Future: A Review of the Fiscal and Competitive Advantages of Smarter Growth Development Patterns." Center on Urban and Metropolitan Policy, Brookings Institution, 2004. ([PDF](http://www.winwinpartner.com/_downloads/0304_BrookingsSmartGrowth.pdf)) {{< br >}}{{< br >}}  |
-| 22 | Decision trees, expected utility, cost-benefit analysis |  {{< br >}}{{< br >}} \[Meier\], chapters 25-26. {{< br >}}{{< br >}} Dawes, R. M. _Rational Choice in an Uncertain World_. San Diego, CA: Harcourt Brace Jovanovich, 1988, chapters 2 and 6. ISBN: 9780155752153. {{< br >}}{{< br >}} [Blogging the Stimulus](http://www.newyorker.com/news/steve-coll/blogging-the-stimulus-bill), a blog by Steve Coll of _The New Yorker_ on issues of public policy. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 13: Review; slack; additional critical thinking**{{< /td-colspan >}} |||
-| 23 | Predictions and uncertainty; representing risk |  {{< br >}}{{< br >}} Clery, D., and A. Cho. "Large Hadron Collider: Is the LHC a Doomsday Machine?" _Science_ 321 (2008): 1291. {{< br >}}{{< br >}} Moore, T. "The Use of Forecasts in Creating and Adopting Visions for Regional Growth." Chapter 2 in _Engaging the Future: Forecasts, Scenarios, Plans, and Projects_. Edited by L. Hopkins and M. Zapata. Cambridge, MA: Lincoln Institute of Land Policy, 2007. ISBN: 9781558441705. {{< br >}}{{< br >}} Reamer, A. "In Dire Straits: The Urgent Need to Improve Economic Statistics." _Brookings_ March 4, 2009. {{< br >}}{{< br >}}  |
-| 24 | Return to research design; review | \[Meier\], chapter 3 (review).
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+{{< anchor "SES__" >}}{{< /anchor >}}SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1: Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview; epistemological foundations; math review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What's in a number?; basic numeracy; measurement
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 1 and 2.
+
+\[Horwitz\], chapter 2.
+
+Hofstadter, D. "On Number Numbness." Chapter 6 in _Metamagical Themas: Questing for the Essence of Mind and Pattern_. New York City, NY: BasicBooks, 1985. ISBN: 9780465045662.
+
+Hodge, G. "[Use and Mis-use of Measurement Scales in City Planning](http://www.informaworld.com/smpp/content~db=all?content=10.1080/01944366308978048)." _J Am Plann Assoc_29 (1963): 112-121.
+
+Zeisel, H. _Say It With Figures_. 6th ed. Harper & Row, 6th edition, chapter 3 1985. ISBN: 9780061819827.
+
+Diamond, J. "How Cats Survive Falls from New York Skyscrapers." _Nat Hist_ 8 (1989): 20-26.
+
+"[On Landing Like a Cat: It Is a Fact](http://www.nytimes.com/1989/08/22/science/on-landing-like-a-cat-it-is-a-fact.html?sec=&spon=)." _New York Times_, August 22, 1989.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2: Planning numbers; descriptive statistics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The use of numbers in planning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Horwitz\], chapter 4.
+
+Innis, J. "Sagas of Three Indicators." Chapter 6 in _Knowledge and Public Policy: The Search for Meaningful Indicators_. New Brunswick, NJ: Transaction Publishers, 1995. ISBN: 9780887388101.
+
+Savas, E. S. "[The political Properties of Crystalline H2O: Planning for Snow Emergencies in New York](http://zimmer.csufresno.edu/~sasanr/Teaching-Material/MIS/Systems-Approach/NY-storm-systems-analysis.pdf)." _Management Science_ 20 (1973):137-145.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Variables; samples and populations; measures of central tendency
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Horwitz\], chapter 6.
+
+\[Meier\], chapters 4 and 5.
+
+Abrahamse, A. F. "Counting the Homeless: Sampling Difficult Populations." Chapter 3 in _Public Policy and Statistics: Case Studies from RAND_. Edited by S. Morton and J. Rolph. New York City, NY: Springer, 2000. ISBN: 9780387987774.
+
+Chan, Sewell. "[Remembering a Snowstorm That Paralyzed the City](http://cityroom.blogs.nytimes.com/2009/02/10/remembering-a-snowstorm-that-paralyzed-the-city/?hp)." _New York Times_, February 10, 2009.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3: Talking about distributions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Measures of variability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Horwitz\], chapters 5 and 7.
+
+\[Meier\], chapter 6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4: Asking and answering questions with data**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Exploratory data analysis and visualization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Hartwig\], pages 5-31.
+
+Start reading \[Tufte\]
+
+Lewis, Michael. "[The No-Stats All-Star](http://www.nytimes.com/2009/02/15/magazine/15Battier-t.html?_r=1)." _New York Times,_ February 13, 2009.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Logic, experiment, and the scientific method
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Horwitz\], chapter 1.
+
+\[Meier\], chapter 3.
+
+Popper, K. _Conjectures and Refutations: The Growth of Scientific Knowledge_. 5th ed. New York City, NY: Routledge Classics, 2002, chapter 10. ISBN: 9780415285940.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5: Probability and the normal curve**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Basic probability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 7 and 8.
+
+Robinson, W. "[Ecological Correlations and the Behavior of Individuals](http://ije.oxfordjournals.org/cgi/content/extract/38/2/337)." _Am Sociol Rev_ 15 (1950): 351-357.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The normal curve; sampling
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+
+
+\[Horwitz\], chapters 8 and 9.
+
+\[Meier\], chapter 9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6: Inferential statistics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Estimates and confidence intervals
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 11, 12 (skim), and 13.
+
+\[Horwitz\], chapters 10 and 12.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The idea of a statistical test; non-parametric tests
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 12 and 14.
+
+\[Horwitz\], chapter 11.
+
+Zernike, Kate. "[Do Polls Lie About Race?](http://www.nytimes.com/2008/10/12/weekinreview/12zernike.html?partner=permalink&exprod=permalink)" _New York Times,_ October 11, 2008.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7: Computers and data**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical software; data management
+{{< tdclose >}}
+{{< tdopen >}}
+Zeisel, H. _Say It With Figures_. 6th ed. Harper & Row, 6th edition, 1985, chapter 4. ISBN: 9780061819827.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8: Introduction to bivariate/multivariate data**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-tabulations; χ2 tests
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Start reading \[Davis\]
+
+\[Meier\], chapters 15-16.
+
+\[Horwitz\], pages 228-331 (review).
+
+Fairley, W. "Accidents on Route 2: Two Way Structures for Data." In _Statistics and Public Policy_. Edited by W. Fairley and F. Mosteller. Reading, MA: Addison-Welsley, 1977. ISBN: 9780201021851.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Scatterplots; correlation; cause and effect; confounding variables
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 17-18.
+
+\[Horwitz\], chapters 13-14.
+
+\[Hartwig\], pages 31-79.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9: Simple regression**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Simple regression
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review readings from Session 14.
+
+\[Berry\], chapter 1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The assumptions of regression analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapter 19.
+
+Chatterjee, S., M. S. Handcock, and J. S. Simonoff. "PCB Contamination of U.S. Bays and Estuaries." In _A Casebook for a First Course in Statistics and Data Analysis_. Hoboken, NJ: Wiley, 1994. ISBN: 9780471110309.
+
+\[Berry\], Chapter 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10: Multivariate regression**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Multivariate regression
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Berry\], chapters 3-5.
+
+\[Meier\], chapters 21 and 23.
+
+\[Rabe-Hesketh\], chapter 3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Review/slack; presentation and graphs
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Horwitz\], chapter 3.
+
+\[Tufte\], chapter 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11: Particulars of planning data and questions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The census
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jencks, C. "The Politics of Income Measurement." Chapter 2 in _The Politics of Numbers_. Edited by W. Alonso and P. Starr. New York, NY: Russell Sage Foundation, 1987. ISBN: 9780871540157.
+
+Myers, D. _Analysis with Local Census Data: Portraits of Change_. New York City, NY: Academic Press, 1992, chapters 2-3. ISBN: 9780125123082.
+
+MacDonald, H. "[The American Community Survey: Warmer (More Current), but Fuzzier (Less Precise) than the Decennial Census](http://www.informaworld.com/smpp/694478713-33710317/content~db=all~content=a787405763)." _J Am Plann Assoc_ 72 (2006): 491-504.
+
+Monmonier, M. S. _How to Lie with Maps_. 2nd ed. Chicago, IL: University of Chicago Press, 1996, chapter 9. ISBN: 9780226534213.
+
+Portney, K. E. "Taking Sustainable Cities Seriously. A Comparative Analysis of Twenty-four US Cities." _Local Environment_ 7 (2002): 363-380.
+
+Yang, Y. "A Tale of Two Cities: Physical Form and Neighborhood Satisfaction in Metropolitan Portland and Charlotte." _J Am Plann Assoc_ 74 (2008): 307-323.
+
+Baade, R. A., and R. F. Dye. "The Impact of Stadiums and Professional Sports on Metropolitan Area Development." _Growth and Change_ 21 (2006): 1-14.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12: Dealing with dollars; making decisions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Talking about money
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mohring, H. "Land Values and the Measurement of Highway Benefits." _J Polit Econ_ 69 (1961): 236-249.
+
+Muro, M. and R. Puentes. "Investing in a Better Future: A Review of the Fiscal and Competitive Advantages of Smarter Growth Development Patterns." Center on Urban and Metropolitan Policy, Brookings Institution, 2004. ([PDF](http://www.winwinpartner.com/_downloads/0304_BrookingsSmartGrowth.pdf))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Decision trees, expected utility, cost-benefit analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Meier\], chapters 25-26.
+
+Dawes, R. M. _Rational Choice in an Uncertain World_. San Diego, CA: Harcourt Brace Jovanovich, 1988, chapters 2 and 6. ISBN: 9780155752153.
+
+[Blogging the Stimulus](http://www.newyorker.com/news/steve-coll/blogging-the-stimulus-bill), a blog by Steve Coll of _The New Yorker_ on issues of public policy.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13: Review; slack; additional critical thinking**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Predictions and uncertainty; representing risk
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clery, D., and A. Cho. "Large Hadron Collider: Is the LHC a Doomsday Machine?" _Science_ 321 (2008): 1291.
+
+Moore, T. "The Use of Forecasts in Creating and Adopting Visions for Regional Growth." Chapter 2 in _Engaging the Future: Forecasts, Scenarios, Plans, and Projects_. Edited by L. Hopkins and M. Zapata. Cambridge, MA: Lincoln Institute of Land Policy, 2007. ISBN: 9781558441705.
+
+Reamer, A. "In Dire Straits: The Urgent Need to Improve Economic Statistics." _Brookings_ March 4, 2009.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Return to research design; review
+{{< tdclose >}}
+{{< tdopen >}}
+\[Meier\], chapter 3 (review).
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
