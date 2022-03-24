@@ -24,7 +24,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course overview; epistemological foundations; math review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit11_220s09_lec01))
+Course overview; epistemological foundations; math review ([PDF - 1.1MB]({{< baseurl >}}/resources/mit11_220s09_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
